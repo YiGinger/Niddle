@@ -10,7 +10,7 @@ shinyUI(pageWithSidebar(
                     selected=toolnames[1]),## name:"Tools"
         br(),p(" The maps depicting regional data science skills needs in the US data scientist job market",
       a("Our Source Code", 
-        href = " http://www.github.com/yiginger")),
+        href = "https://github.com/YiGinger/Niddle")),
       br(),
      p("Supported by ",
        a("CornelTech Data Hackathon" ,
